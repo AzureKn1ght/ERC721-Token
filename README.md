@@ -16,6 +16,6 @@ The features required of the ERC721 contract:
 
 ## Deployed Address
 
-A live example has been deployed to the Ethereum Testnet (Ropsten):
+An example has been deployed and _Verified_ on the Ethereum Testnet (Ropsten):
 
 [0xFAFD46f3671b1fcfd7906CAe158C3008c2fFc358](https://ropsten.etherscan.io/address/0xfafd46f3671b1fcfd7906cae158c3008c2ffc358)
