@@ -1,6 +1,6 @@
 # ERC721-Token
 
-**Q1: Create an ERC721 token smart contract**
+**Q: Create an ERC721 token smart contract**
 
 Level: beginner 
 
